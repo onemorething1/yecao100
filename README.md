@@ -2,9 +2,9 @@
 yecao100的公告栏
 
 # 最新域名
-https://web.yecao100.org
-https://www.yecao100.org
-https://47.244.30.150/
+https://web.yecao100.org  
+https://www.yecao100.org  
+https://47.244.30.150/  
 优先使用域名访问，我们自动做了域名跳转，但如果域名无法正常访问，那么可以使用ip访问。
 
 # 邮箱支持
